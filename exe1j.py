@@ -8,3 +8,4 @@ if len(v)%2==0:
     print(m)
 else:
     print(v[(len(v)//2)])
+#Classificação de complexidade O(1)
