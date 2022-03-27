@@ -9,3 +9,4 @@ for i in range(len(v)):
             c=c+1
             print(f' os 2 vetores tem pelo {c} elementos em comun') 
         
+#Classificação de complexidade O(n^2)

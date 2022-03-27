@@ -9,3 +9,4 @@ for i in range(len(m)):
                 if m[i][s]==m1[v][j]:
                     c=c+1
                     print('os 2 matrizes tem pelo {c} elementos em comun')
+#Classificação de complexidade O(n!)
